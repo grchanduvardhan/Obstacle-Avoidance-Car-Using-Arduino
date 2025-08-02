@@ -3,6 +3,7 @@ Obstacle Avoidance Car Using Arduino
 ---
 
 Introduction
+
 This project details the creation of an **autonomous obstacle-avoidance car**. The car is designed to navigate its environment by detecting obstacles using an **ultrasonic sensor** and maneuvering around them without human intervention. The core of the system is an **Arduino Uno** microcontroller, which processes sensor data and controls the vehicle's movement through a **motor driver shield**. This project demonstrates fundamental concepts in robotics, including sensor integration, motor control, and embedded programming.
 
 ![Obstacle Avoidance Car](https://github.com/user-attachments/assets/ba1416d6-e8e6-416f-8b08-2742271c59ec)
@@ -33,14 +34,7 @@ Circuit Diagram
 
 Demo Video
 
-
-
 https://github.com/user-attachments/assets/fb06a9d2-7096-4120-b0d6-caa761d882cd
-
-
-
-
-![Demo](https://github.com/user-attachments/assets/a6b5d3a7-f63b-44d0-9021-4ad79b6f82de)
 
 
 
